@@ -1,6 +1,8 @@
 # COVID data visualizations
 
-To understand and visualize more of death and vaccination rates in the world, I looked at COVID-19 data and conducted various queries on them. I showcased my analysis on Tableau.
+To understand and visualize the death and vaccination rates in the world, I looked at COVID-19 data and conducted various queries on them. I showcased my analysis on Tableau.
+
+
 https://public.tableau.com/views/COVIDDASHBOARD_16784903495580/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 
